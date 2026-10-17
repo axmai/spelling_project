@@ -1,0 +1,10 @@
+﻿.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+allwords-unique-sorted.txt
+allwords-unique-sorted.txt.zip
